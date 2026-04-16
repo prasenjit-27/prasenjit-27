@@ -12,14 +12,11 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center">
 <br><br> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prasenjit-27/prasenjit-27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://leetcode.com/u/Prasenjit27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bixl007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prasenjitmajumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-baira-893416295" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prasenjit27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasenjitmajumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
