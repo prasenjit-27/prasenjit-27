@@ -2,9 +2,10 @@
 <h3 align="center">"Eat-Sleep-Enjoy-Repeat"</h3>
 </br>
 
-- 🌱 Exploring **Web3 & AI**
+- 🌿 Exploring **Web3 & AI**
 - 💬 Open to chat about **DSA, Web Development, Web3, and DevOps**
-- 📫 Reach out at **btwiamprasenjit@gmail.com**
+- 💌 Reach out: **btwiamprasenjit@gmail.com**
+- ❇️ Visit: https://prasenjit.vercel.app
 
 <br><br>
 
